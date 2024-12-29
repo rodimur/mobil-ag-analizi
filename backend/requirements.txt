@@ -1,1 +1,8 @@
 # Gerekli Python kütüphaneleri
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+requests
+loguru
+pytest
