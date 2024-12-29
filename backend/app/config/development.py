@@ -1,1 +1,0 @@
-# Geliştirme ayarları

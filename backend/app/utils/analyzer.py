@@ -1,1 +1,0 @@
-# URL tehdit analizi fonksiyonları

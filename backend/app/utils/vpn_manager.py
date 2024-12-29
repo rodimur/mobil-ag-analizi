@@ -1,1 +1,0 @@
-# VPN bağlantı yönetim fonksiyonları

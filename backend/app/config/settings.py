@@ -1,1 +1,0 @@
-# Genel yapılandırma ayarları (API key'ler, port numarası vb.)

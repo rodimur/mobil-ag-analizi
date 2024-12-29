@@ -1,1 +1,0 @@
-# Tehdit analizi rotaları
