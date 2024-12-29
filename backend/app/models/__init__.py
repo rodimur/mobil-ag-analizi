@@ -1,0 +1,1 @@
+# Model modülleri için giriş noktası

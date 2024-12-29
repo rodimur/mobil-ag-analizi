@@ -1,0 +1,1 @@
+# Veri modelleri (örneğin, API için giriş/çıkış şemaları)

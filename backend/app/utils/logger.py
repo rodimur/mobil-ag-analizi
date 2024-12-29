@@ -1,0 +1,1 @@
+# Loglama fonksiyonları

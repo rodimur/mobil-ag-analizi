@@ -1,0 +1,1 @@
+# Flask/FastAPI başlangıç dosyası
