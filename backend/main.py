@@ -3,7 +3,8 @@ from app.routes import vpn, logs
 from app.routes import threat
 from app.config.settings import API_KEY
 from app.routes import vpn, logs
-
+from fastapi import FastAPI
+from app.routes import vpn  # VPN rotasını import edin
 
 app = FastAPI(title="Mobil Ağ Trafiği Analizi")
 @app.get("/")
@@ -23,4 +24,4 @@ if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="127.0.0.1", port=8000)
 
-
+app.include_router(vpn.router, prefix="/vpn")
